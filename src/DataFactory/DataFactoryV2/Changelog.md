@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 1.10.3
 * Updated ADF .Net SDK version to 4.12.0
 * Updated ADF encryption client SDK version to 4.14.7587.7
 
