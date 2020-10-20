@@ -140,6 +140,19 @@
 * Added support for Premium V3 pricing tier
 * Updated the WebSites SDK to 3.1.0
 
+### Thanks to our community contributors
+* @atul-ram, Update Get-AzDelegation.md (#13176)
+* @dineshreddy007, Get the App Roles assigned correctly in case of Stack HCI registration using WAC token. (#13249)
+* @kongou-ae, Update New-AzOffice365PolicyProperty.md (#13217)
+* Lohith Chowdary Chilukuri (@Lochiluk), Update Set-AzApplicationGateway.md (#13150)
+* Matthew Burleigh (@mburleigh)
+  * Add links to PowerShell cmdlets referenced in the document (#13203)
+  * Add links to PowerShell cmdlets referenced in the document (#13190)
+  * Add links to PowerShell cmdlets referenced in the document (#13189)
+  * add links to referenced cmdlets (#13137)
+  * Add links to PowerShell cmdlets referenced in the document (#13204)
+  * Add links to PowerShell cmdlets referenced in the document (#13205)
+
 ## 4.8.0 - October 2020
 #### Az.Accounts
 * Fixed DateTime parse issue in common libraries [#13045]
